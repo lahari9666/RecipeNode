@@ -39,5 +39,15 @@
   "nutrition_info":"320 kcal",
   "prep_time":"1 hour",
   "country_of_origin":"America"
+},
+{
+  "id":5,
+  "food_item_name":"Cheese cake",
+  "image":"https://media.istockphoto.com/id/1167344045/photo/cheesecake-slice-new-york-style-classical-cheese-cake.jpg?s=612x612&w=0&k=20&c=y3eh7cFEefAYxB_5Ow2n1OJZML_PqFOdnB5Z9nvXdgw=",
+  "ingredients":"graham crackers, unsalted butter, granulated sugar, vanilla extract, cream cheese, eggs",
+  "recipe":"1. Keep cream cheese and eggs in room temperature. \n2. make the crackers into fine powder and use it to prepare the cheesecake crust by mixing with butter, sugar, vanilla extract. \n3. pre heat oven to 350 \n4. Use a hand mixer to beat the eggs, vanilla extract, cream cheese, sugar to a smooth mixture without lumps. \n5. pour the mix on top of the crust and bake for 25 minutes. then cool it for 6 hours in refridgerator.",
+  "nutrition_info":"401kcal",
+  "prep_time":"50 minutes",
+  "country_of_origin":"America"
 }
 ]}
